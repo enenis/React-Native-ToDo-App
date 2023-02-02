@@ -1,5 +1,5 @@
 # React-Native-ToDo-App
-Hello, In this project i made a to-do app with React-Native.
+Hello, In this project i made a to-do app with <b>React-Native.</b>
 <hr>
 
 <b>ScreenShot in app;</b><br>
