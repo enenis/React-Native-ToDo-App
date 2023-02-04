@@ -22,7 +22,6 @@ const styles = StyleSheet.create({
         margin:10,
         backgroundColor: '#fff',
         flexDirection: 'row',
-        // justifyContent: 'center',
     },
     title: {
         fontSize: 20,
