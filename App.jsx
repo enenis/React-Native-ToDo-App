@@ -5,7 +5,7 @@ import {
 
   StyleSheet,
   Text,
-  useColorScheme,
+
   View,
   FlatList,
 } from 'react-native';
