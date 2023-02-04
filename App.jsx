@@ -3,7 +3,6 @@ import {
   StyleSheet,
   Text,
   View,
-  FlatList,
 } from 'react-native';
 
 import Header from './components/Header';
