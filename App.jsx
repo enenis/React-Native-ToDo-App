@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  SafeAreaView,
+  
   ScrollView,
   StatusBar,
   StyleSheet,
